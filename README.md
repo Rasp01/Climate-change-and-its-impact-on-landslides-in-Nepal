@@ -1,3 +1,6 @@
+![Density  of Landslides based on causes](https://user-images.githubusercontent.com/92431548/184884320-53da008e-36e6-49d8-99b8-a1fc951fa4c5.png)
+
+
 # Climate-change-and-its-impact-on-landslides-in-Nepal
 Repository for R-code and report on understanding the impact of climate change on landslides in High Mountain Asia 
 
