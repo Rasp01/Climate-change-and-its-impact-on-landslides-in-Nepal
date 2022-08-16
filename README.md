@@ -13,13 +13,12 @@ To run the rsatscan package you must have SatScan on your device. It can be down
 https://www.satscan.org/
 
 
-!!IMPORTANT NOTES
+IMPORTANT NOTES
 - Make sure to set your Working Directory to "STDM Submission Files" 
 Measuring river distance:
-- The file is too large to be uploaded on moodle but can be downloaded from:
+- The file is too large to be uploaded but can be downloaded from:
+- Make sure to download the Polygon shapefile which is much smaller 
 https://data.humdata.org/dataset/nepal-watercourses-rivers
-- Make sure to download the Polygon shapefiel which is much smaller 
-- The process to measure the distance from every point to it's closet river takes approximately  30 hours 
-HOWEVER I have provided a shapefile called "ML_Landslide_dataset" that has all the preprocessing of the factors for the random forest
-apart from the rainfall data. 
+
+- The process to measure the distance from every point to it's closet river takes approximately  30 hours. HOWEVER I have provided a shapefile called "ML_Landslide_dataset" that has all the preprocessing of the factors for the random forest apart from the rainfall data. 
 
