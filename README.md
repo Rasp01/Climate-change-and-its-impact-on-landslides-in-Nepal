@@ -18,6 +18,7 @@ https://www.satscan.org/
 
 IMPORTANT NOTES
 - Make sure to set your Working Directory to "STDM Submission Files" 
+
 Measuring river distance:
 - The file is too large to be uploaded but can be downloaded from:
 - Make sure to download the Polygon shapefile which is much smaller 
